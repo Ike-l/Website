@@ -4,6 +4,7 @@ body {
   height: 100%;
   margin: 10px;
   padding: 10px;
+  background-color: #000FFF;
 }
 
 footer {
@@ -14,6 +15,7 @@ footer {
 }
 
 #hyperlinks {
+  background-color: black;
   color: blue;
 }
 #hyperlinks:hover {
