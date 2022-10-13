@@ -5,7 +5,10 @@ body {
   margin: 0;
   padding: 0;
 }
-
+#hyperlinks {
+  float: left;
+  display: inline;
+}
 #opening {
   height: auto;
   width: 50%;
