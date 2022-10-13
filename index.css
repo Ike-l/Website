@@ -3,6 +3,10 @@ body {
   font-size: 40px;
 }
 
+#opening {
+  height: 200px;
+  width: 50%;
+}
 footer {
   bottom: 0;
   font-style: italic;
