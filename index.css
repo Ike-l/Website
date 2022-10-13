@@ -14,8 +14,6 @@ footer {
 }
 
 #hyperlinks {
-  float: left;
-  display: inline;
   color: blue;
 }
 #hyperlinks:hover {
