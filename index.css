@@ -17,6 +17,11 @@ footer {
 #hyperlinks {
   background-color: black;
   color: blue;
+  width: 100%;
+  height: auto;
+}
+#hyperlinks p {
+  font-size: 20px;
 }
 #hyperlinks:hover {
   color: #99ccff;
