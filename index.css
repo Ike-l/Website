@@ -8,6 +8,10 @@ body {
 #hyperlinks {
   float: left;
   display: inline;
+  color: blue;
+}
+#hyperlinks:hover {
+  color: #99ccff;
 }
 #opening {
   height: auto;
