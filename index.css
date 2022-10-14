@@ -10,6 +10,7 @@ body {
 table, th, td {
   border: 1px solid black;
 }
+
 footer {
   bottom: 0;
   font-style: italic;
@@ -31,9 +32,11 @@ footer {
 #hyperlinks p {
   font-size: 20px;
 }
-#hyperlinks:hover {
+
+#hyperlinks p:hover {
   color: #99ccff;
 }
+
 #opening {
   position: relative;
   top: 125px;
@@ -45,4 +48,10 @@ footer {
   position: absolute;
   right: 0;
   top: 300px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 25px;
+  height: auto;
+  width: auto;
+  max-width: 600px;
 }
