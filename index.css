@@ -7,6 +7,9 @@ body {
   background-color:  #ccff99;
 }
 
+table, th, td {
+  border: 1px solid black;
+}
 footer {
   bottom: 0;
   font-style: italic;
