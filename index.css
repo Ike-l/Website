@@ -35,6 +35,8 @@ footer {
   color: #99ccff;
 }
 #opening {
+  position: relative;
+  top: 125px;
   height: auto;
   width: 50%;
 }
