@@ -33,3 +33,8 @@ footer {
   height: auto;
   width: 50%;
 }
+
+#notes {
+  position: absolute;
+  right: 0;
+}
