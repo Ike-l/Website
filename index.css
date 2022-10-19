@@ -27,9 +27,6 @@ footer {
   top: 0;
   left: 0;
 }
-#hyperlinks a {
-  font-size: 20px;
-}
 
 #hyperlinks a:hover {
   color: #99ccff;
