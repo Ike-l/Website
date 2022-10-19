@@ -26,12 +26,17 @@ footer {
   top: 0;
   left: 0;
 }
-
 #hyperlinks a {
   float: right;
 }
 #hyperlinks a:hover {
   color: #99ccff;
+}
+
+#opening h1 {
+    position: relative;
+    top: 125;
+    text-align: center;
 }
 
 #times p {
