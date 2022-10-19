@@ -2,8 +2,6 @@ body {
   font-family: Arial;
   font-size: 40px;
   height: 100%;
-  margin: 10px;
-  padding: 10px;
   background-color:  #eeeeee;
 }
 
@@ -44,6 +42,9 @@ footer {
   width: 50%;
 }
 
+#times p {
+  
+}
 #notes {
   position: fixed;
   right: 0;
@@ -51,7 +52,9 @@ footer {
   border: 1px solid black;
   padding: 10px;
   margin: 25px;
-  height: 800px;
-  width: 600px;
+  max-height: 600px;
+  min-height: 200px;
+  max-width: 450px;
+  min-width: 150px;
   overflow: auto;
 }
