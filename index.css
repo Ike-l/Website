@@ -35,16 +35,10 @@ footer {
   color: #99ccff;
 }
 
-#opening {
-  position: relative;
-  top: 125px;
-  height: auto;
-  width: 50%;
+#times p {
+  margin-bottom: 0;
 }
 
-#times p {
-  
-}
 #notes {
   position: fixed;
   right: 0;
