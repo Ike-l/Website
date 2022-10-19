@@ -28,7 +28,7 @@ footer {
 }
 #hyperlinks a {
   float: right;
-  paddin-right: 20px;
+  margin-right: 20px;
 }
 #hyperlinks a:hover {
   color: #110391;
